@@ -1,11 +1,17 @@
 <h1 align="center">Hi 👋, I'm Arnav Keche</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate developer, coder and problem solver, love to solve puzzles and play chess. I'm currently looking for an internship</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=arxheem&label=Profile%20views&color=0e75b6&style=flat" alt="arxheem" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=arxhem&label=Profile%20views&color=0e75b6&style=flat" alt="arxhem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arxheem" alt="arxheem" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=arxhem" alt="arxhem" /></a> </p>
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
+
+- 🌱 I’m currently learning **React, Node.Js**
+
+- 📫 How to reach me **arnavkeche54@gmail.com**
+
+- ⚡ Fun fact **I'm a Netflix Based Life-form**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -17,6 +23,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=arxhem&show_icons=true&locale=en&layout=compact" alt="arxhem" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arxhem&show_icons=true&locale=en" alt="arxheem" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=arxhem&show_icons=true&theme=radical" alt="arxhem" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arxheem&" alt="arxhem" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=arxhem&" alt="arxhem" /></p>
