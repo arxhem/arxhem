@@ -1,5 +1,14 @@
 <h1 align="center">Hi 👋, I'm Arnav Keche</h1>
-<h3 align="center">A passionate developer, coder and problem solver, love to solve puzzles and play chess. I'm currently looking for an internship</h3>
+<h3 align="center">
+  Versatile software developer looking to leverage my passion for problem solving and algorithm design into an engineering role that 
+allows me to create engaging products and user experiences. Skilled in C/C++, Javascript, Python and Data Structures, Algorithms 
+along with some experience on real world software projects. With excellent communication skills, I am also a great team player 
+and a self-starter that likes to engage in a logical thinking approach to problem solving.
+
+ Pre-Final Year Undergrad at NMIT
+ Full Stack Development
+
+⚡ Feel free to ping me, if you lookin' for a teammate.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=arxhem&label=Profile%20views&color=0e75b6&style=flat" alt="arxhem" /> </p>
 
